@@ -45,6 +45,29 @@ The average movie runtime on the platform is **91.31 minutes**. This indicates a
 ### 3. Audience Targeting (The 13+ Factor)
 The most frequent rating on the platform is **13+**, followed by **18+**. This confirms that Amazon is targeting the **Young Adult & Teen** segments.
 
+### 4. Legacy Content & Library Depth
+A significant portion of the library consists of "Old Gold" (legacy titles). While new releases create hype, the deep back-catalog is what keeps the platform's volume high and provides value for a wide age range of subscribers.
+
+### 5. Geographical Content Hubs
+After cleaning the data, the United States and India emerge as the top content contributors. This highlights Amazon's focus on Western cinema and the rapidly growing Indian digital market.
+
+---
+
+## 🚀 Business Recommendations
+
+### 🟢 Subscriber Retention
+Increase TV Show Acquisitions: To improve daily active users (DAU), Amazon should pivot towards more multi-season episodic content.
+
+Invest in Renewals: Focus on renewing successful "Season 1" shows to build long-term franchises.
+
+### 🔵 Market Expansion
+Hyper-Local Content: Acquire more local-language content in underserved regions (LatAm, SE Asia) where growth is peaking.
+
+Monthly "Tentpole" Drops: Spread big-budget releases across the "low-upload" months identified in the Monthly Trends analysis.
+
+### 🟠 User Experience
+Niche Genre Promotion: Promote high-quality niche genres (Documentaries, International) that currently have low volume but high average ratings.
+
 ---
 
 ## 🛠️ Tools Used
@@ -59,7 +82,17 @@ The most frequent rating on the platform is **13+**, followed by **18+**. This c
 
 ---
 
+## 💡 Key Takeaways
+- Movies are the anchor, but TV shows are the "hook" for retention.
+
+- 91 minutes is the ideal duration for high-engagement cinematic content.
+
+- United States and India are the primary growth engines for Prime Video content.
+
+- Infrastructure in data cleaning (handling 'Unknown' values) is crucial for accurate business reporting.
+
+---
+
 ## 📁 Author
 
 **Ishika Khapekar** 
-Data Analysis 
